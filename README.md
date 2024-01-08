@@ -1,3 +1,4 @@
-create Index.html
-write internal CSS and JS.
-This game is developed for fun.
+create Index.html.
+create Style.css .
+create Script.js.
+link css & script file in Index.Html.
